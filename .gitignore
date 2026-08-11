@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+

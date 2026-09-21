@@ -1,0 +1,4 @@
+PyPdf
+fastapi
+easyocr
+opencv

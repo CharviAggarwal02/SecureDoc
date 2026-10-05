@@ -5,3 +5,6 @@ result = reader.readtext("/home/hp-5cd4449308p/PycharmProjects/SecureDoc/Screens
 result_detailed= reader.readtext("path",detail=1)
 
 print(result)
+
+def draw_boxes(image,bounds, colour="red",width=2):
+  
